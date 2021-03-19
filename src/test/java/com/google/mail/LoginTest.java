@@ -17,7 +17,7 @@ public class LoginTest {
 
 		driver.manage().window().maximize();
 		System.out.println("Page is open");
-		sleep(3000);
+		sleep(4000);
 		
 		
 		driver.close();
