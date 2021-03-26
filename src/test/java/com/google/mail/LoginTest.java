@@ -12,7 +12,7 @@ public class LoginTest {
 
 		System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		String url = "http://mail.google.com";
+		String url = "4tgrhttp://mail.google.com";
 		driver.get(url);
 
 		driver.manage().window().maximize();
